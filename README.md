@@ -1,0 +1,2 @@
+# Process_Engine_trigger_mechanism_in_fixed_and_mobile_environments
+Lightweight SOA-based twin-engine architecture for enterprise systems in fixed and mobile environments
